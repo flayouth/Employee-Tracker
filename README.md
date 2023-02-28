@@ -1,5 +1,5 @@
 <h1>Employee-Tracker</h1>
-<h2>Description</h2>
+
 <p>For Module 12's Challenge, I developed a practical solution for managing employees within a company using node.js, inquirer, console.table, and MySQL2. The application includes the following features:</p>
 <ul>
     <li>Viewing all Employees, Roles, or Departments</li>
